@@ -1,6 +1,6 @@
 ## 实验环境
 
-#### python 3.0.1
+#### python 3.10
 #### Visual studio code
 
 ## 代码运行
