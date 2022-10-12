@@ -1,9 +1,9 @@
 import random
 import numpy as np
 
-def Class_ad(p):  # 随机数生成函数
+def Class_ad(p):  
     Student_ad = []
-    for i in range(0, 20):  # 初始化所有人都来了
+    for i in range(0, 20):  
         l_temp = []
         for j in range(0, 90):
             l_temp.append(1)
